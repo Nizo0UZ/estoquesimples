@@ -141,4 +141,4 @@ int main(){
     return 0;
 }
 // Para add novos funcionarios ou produtos é atraves do int main
-// Se for add mais talvez tenha q criar um switch dentro do switch ou continuar com if e else
+// Se for add mais talvez tenha q continuar com if e else
